@@ -1,0 +1,36 @@
+{
+  "name": "wikipediacrawler",
+  "version": "1.0.0",
+  "description": "Random informations on random topics",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuchtas/WikipediaCrawler.git"
+  },
+  "keywords": [
+    "wikipedia",
+    "crawler",
+    "wiki",
+    "wikipedia",
+    "api",
+    "api",
+    "informations",
+    "random",
+    "informations"
+  ],
+  "author": "Marcin Kuchta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuchtas/WikipediaCrawler/issues"
+  },
+  "homepage": "https://github.com/kuchtas/WikipediaCrawler#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.6.0"
+  }
+}
